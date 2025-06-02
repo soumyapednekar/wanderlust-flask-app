@@ -4,7 +4,7 @@ import requests
 application = Flask(__name__)
 
 # Your Yelp API Key
-API_KEY = "6r8GwPsBifuem8BpM8Bv8VsRD91__dBXj85NZ2sw4CCO_OqI_PROUK3DJSmxlIyVLy5ZO4CenKiVaKHzdQ9FvR9kqT0t_MTbgVPVcRS4YLuwls8fDg7jjQRF--08aHYx"
+API_KEY = "YOUR_API_KEY"
 YELP_URL = "https://api.yelp.com/v3/businesses/search"
 HEADERS = {"Authorization": f"Bearer {API_KEY}"}
 
