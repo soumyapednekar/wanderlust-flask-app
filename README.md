@@ -3,7 +3,7 @@
 **Wanderlust** is a Flask-based web application that recommends top-rated places to visit in a given city using the [Yelp Fusion API](https://www.yelp.com/developers/documentation/v3). The app is deployed on **AWS Elastic Beanstalk**, making it scalable and publicly accessible.
 
 
-
+** Use desktop for better UI**
 ---
 
 ## 🚀 Features
